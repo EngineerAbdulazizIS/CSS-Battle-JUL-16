@@ -1,0 +1,12 @@
+<style>
+*{
+  background:#4F77FF;
+  *{
+    background:#EFF8FE;
+    border-radius:40px;
+    margin:-90 300 200-90;
+    color:EFF8FE;
+    box-shadow:390px 0,0 290px,390px 290px
+  }
+}
+</style>
